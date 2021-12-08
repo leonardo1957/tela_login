@@ -1,0 +1,75 @@
+.login{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+
+
+.login-right{
+    margin-right: center;
+    margin-bottom: center;
+}
+
+.login-right h1{
+    font-family: 'Roboto Slab';
+    font-weight: 300;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.loginInputEmail input {
+    display: flex;
+    align-items: center;
+    color: gray;
+    border-radius: 5px;
+    padding: 4px;
+    width: 98%;
+    height: 50px;
+    margin-top: 100px;
+   text-align: center;
+}
+
+
+.loginInputPassword input{
+    display: flex;
+    align-items: center;
+    color: gray;
+    border-radius: 5px;
+    padding: 4px;
+    width: 98%;
+    height: 50px;
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.ButtonEntrar button{
+   width: 105%;
+   background-color: #121214;
+   color: #EFF2F5;
+   font-weight: 800;
+   height: 50px;
+   border-radius: 5px;
+   font-size: 18px;
+   margin-top: 60px;
+}
+
+
+
+
+.login-right button{
+    width: 105%;
+   background-color: #121214;
+   color: #EFF2F5;
+   font-weight: 800;
+   height: 50px;
+   border-radius: 5px;
+   font-size: 18px;
+   margin-top: 10px;
+
+
+}
+
